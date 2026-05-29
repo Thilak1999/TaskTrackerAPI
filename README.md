@@ -72,7 +72,7 @@ docker --version
 ## Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Thilak1999/TaskTrackerAPI.git
 cd TaskTracker
 ```
 
@@ -309,5 +309,4 @@ http://localhost:8080/swagger-ui/index.html
 ## Author
 
 Thilak K S
-
 Software Engineer (Java)
